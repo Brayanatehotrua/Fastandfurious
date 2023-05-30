@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    margin: 20px auto;
+    max-width: 500px;
+    padding: 20px;
+    position: relative;
+  }
+  
+  h1 {
+    font-family: 'Faster One', cursive;
+    font-size: 36px;
+    text-align: center;
+  }
+  
+  .subtitle,
+  .details {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .details .label {
+    font-family: 'Faster One', cursive;
+    font-weight: bold;
+  }
+  
+  .message {
+    margin-bottom: 15px;
+  }
+  
+  .with-love {
+    font-style: italic;
+  }
+  
+  .signature {
+    font-weight: bold;
+  }
+  
+  .letsgo-btn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #ff3366;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .car-animation {
+    position: absolute;
+    bottom: -20px;
+    left: -100px;
+  }
+  
